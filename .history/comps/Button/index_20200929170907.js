@@ -1,0 +1,14 @@
+import React from 'react';
+import styled from 'styled-components';
+
+const Menu = ()=>{
+    return <div>
+        Menu
+    </div>
+}
+
+MenudefaultProps = {
+
+}
+
+export default Menu;
